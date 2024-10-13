@@ -1,3 +1,4 @@
-/.idea
-/backend/vendor
-/Docker/.env
+.idea
+./php-beginnig/backend/vendor
+./php-beginnig/Docker/.env
+
