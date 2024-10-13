@@ -1,4 +1,5 @@
 .idea
-./php-beginnig/backend/vendor
-./php-beginnig/Docker/.env
+.\php-beginnig\backend\vendor
+.\php-beginnig\Docker\.env
+
 
